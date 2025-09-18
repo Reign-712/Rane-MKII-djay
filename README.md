@@ -8,4 +8,4 @@ Midi Map Includes:
 - Mapped beat jump to Secondary Performance Pad Button 2 (S. banks are for Serato and not usable in djay). Buttons 1-3 jumps forward 8, 16 and 32 beats. Button 4 jumps back 16 beats.
 - Mapped both key locks to “Add to queue” 
 
-Note that Stems are processed through the djay, so uses djay's software FX (and has nothing to do with the HW/SW found in the mixer section of the board. Therefore changes to 3 and 4 above must be done in the software. Image in zip.
+Note that Stems are processed through the djay, so uses the FX found in djay and has nothing to do with the HW/SW found in the mixer section of the board. Therefore, changes to 3 and 4 above must be done in the software. Image in zip.
