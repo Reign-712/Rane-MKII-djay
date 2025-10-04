@@ -1,4 +1,4 @@
-# Rane-MKII-djay
+# Rane-One-MKII-with-Algoriddim-djay
 
 Midi Map Includes:
 - Removed looper - Mapped an additional Sample bank to Sample double press and added samples to it 
