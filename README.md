@@ -8,4 +8,4 @@ Midi Map Includes:
 - Mapped beat jump to Parameter Left (16 beats backwards)and Parameter Right to (16 beats forwards)
 - Mapped both key locks to “Add to queue” 
 
-Note that Stems are processed through the djay, so uses the FX found in djay and has nothing to do with the HW/SW found in the mixer section of the board. Therefore, changes to 3 and 4 above must be done in the software. Image in zip.
+Note that Stems are processed through the djay, so uses the FX found in djay and has nothing to do with the HW/SW found in the mixer section of the board. Therefore, changes to 3 and 4 above must be done in the software.
